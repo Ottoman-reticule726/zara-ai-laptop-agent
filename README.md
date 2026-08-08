@@ -17,21 +17,6 @@ fixes the Wi-Fi, sends the file — then replies with the result and a picture o
 
 ---
 
-## 🎬 See it in action
-
-<div align="center">
-
-<!-- DEMO VIDEO / GIF GOES HERE -->
-<!-- Drag your .gif or .mp4 into this file on github.com and it will paste a link right here. -->
-
-![Zara demo](docs/demo.gif)
-
-*One voice note from the phone — Zara reads the screen, does the work, and replies out loud.*
-
-</div>
-
----
-
 ## What is this?
 
 Zara is a **remote laptop assistant**. She lives on your Windows PC and listens to a private
