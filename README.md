@@ -9,9 +9,24 @@ fixes the Wi-Fi, sends the file — then replies with the result and a picture o
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)](#requirements)
-[![Powered by Claude](https://img.shields.io/badge/Brain-Claude-D97757)](https://claude.com/claude-code)
+[![Developed by Tanzeel](https://img.shields.io/badge/Developed%20by-Tanzeel-6C3EF5)](https://github.com/tanzeeldevAi)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+
+</div>
+
+---
+
+## 🎬 See it in action
+
+<div align="center">
+
+<!-- DEMO VIDEO / GIF GOES HERE -->
+<!-- Drag your .gif or .mp4 into this file on github.com and it will paste a link right here. -->
+
+![Zara demo](docs/demo.gif)
+
+*One voice note from the phone — Zara reads the screen, does the work, and replies out loud.*
 
 </div>
 
