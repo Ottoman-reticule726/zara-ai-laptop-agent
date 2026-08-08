@@ -22,21 +22,29 @@ fixes the Wi-Fi, sends the file — then replies with the result and a picture o
 Zara is a **remote laptop assistant**. She lives on your Windows PC and listens to a private
 Discord channel that only *you* can talk to.
 
-You are outside. Your laptop is at home. You send:
+You control her from the **Discord mobile app** on your phone — the same app you already use.
+No extra app to install, nothing to buy, and it works from anywhere on mobile data or Wi-Fi.
 
-> *"screenshot bhejo aur batao laptop kaisa chal raha hai"*
+You are outside. Your laptop is at home. You open Discord on your phone and type (or say):
 
-…and a few seconds later you get a picture of your screen and a spoken reply in Urdu.
+> *"take a screenshot and tell me how the laptop is doing"*
+
+…and a few seconds later you get a picture of your screen and a spoken reply.
+
+She also understands **Urdu** — send a voice note in Urdu and she replies in an Urdu voice.
 
 She is not a chatbot with a fixed menu. She is an **AI agent** — a brain (Claude) plus **38 tools**
 (screenshot, shell, files, mouse, keyboard, apps, Wi-Fi). She decides which tools to use and
 chains them together on her own.
 
 ```
-Your phone  ──►  Discord  ──►  Your laptop  ──►  Claude (brain)  ──►  Tools
-     ▲                                                                   │
-     └──────────  text · screenshots · voice reply  ◄───────────────────┘
+Discord app on your phone  ──►  Your laptop at home  ──►  AI brain  ──►  Tools
+            ▲                                                             │
+            └──────────  text · screenshots · voice reply  ◄─────────────┘
 ```
+
+> **No port forwarding, no static IP, no VPN, no tunnel.** Your laptop connects *outward* to
+> Discord, so it works behind any home router or mobile network.
 
 ---
 
@@ -194,13 +202,16 @@ For surviving a full power cut while you're away, read **[AUTOSTART-NOTES.txt](A
 | `/status` | Instant system health |
 | `/voice on` · `off` · `auto` | Control voice replies |
 
-Everything else is just plain English or Urdu:
+Everything else is just plain English — type it or send a voice note from the Discord app:
 
 > *"open chrome and go to gmail, then screenshot it"*
 > *"what's eating my RAM? close the worst one"*
 > *"find every invoice PDF in Documents from this year and send me the biggest"*
-> *"WhatsApp par Ali ko bhejo: main 10 minute mein aa raha hoon"*
+> *"send a WhatsApp message to Ali saying I'll be there in 10 minutes"*
 > *"pull the latest changes in D:\my-project, run the tests, show me any failures"*
+> *"is my internet working? if not, fix it"*
+
+Urdu works exactly the same way — she replies in whichever language you used.
 
 ---
 
